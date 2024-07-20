@@ -1,0 +1,142 @@
+{
+  "spendWise": "SpendWise",
+  "@spendWise": {
+    "description": "The name of the application"
+  },
+  "statistics": "Statistics",
+  "@statistics": {
+    "description": "The title on the drawer to display charts"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "The title on the drawer to display settings"
+  },
+
+  
+  "filters": "Filters",
+  "@filters": {
+    "description": "The title on the drawer to display filters"
+  },
+  "onlyFood": "Food",
+  "@onlyFood": {
+    "description": "The title of the filter for food expenses"
+  },
+  "onlyFoodSubtitle": "Only include expenses on food",
+  "@onlyFoodSubtitle": {
+    "description": "The subtitle of the filter for food expenses"
+  },
+  "onlyLeisure": "Leisure",
+  "@onlyLeisure": {
+    "description": "The title of the filter for leisure expenses"
+  },
+  "onlyLeisureSubtitle": "Only include expenses on leisure",
+  "@onlyLeisureSubtitle": {
+    "description": "The subtitle of the filter for leisure expenses"
+  },
+  "onlyTravel": "Travel",
+  "@onlyTravel": {
+    "description": "The title of the filter for travel expenses"
+  },
+  "onlyTravelSubtitle": "Only include expenses on travel",
+  "@onlyTravelSubtitle": {
+    "description": "The subtitle of the filter for travel expenses"
+  },
+  "onlyWork": "Work",
+  "@onlyWork": {
+    "description": "The title of the filter for work expenses"
+  },
+  "onlyWorkSubtitle": "Only include expenses on Work",
+  "@onlyWorkSubtitle": {
+    "description": "The subtitle of the filter for work expenses"
+  },
+
+
+  "theme": "Theme",
+  "@theme": {
+    "description": "The title on the drawer to display theme settings"
+  },
+  "darkMode": "Dark Mode",
+  "@darkMode": {
+    "description": "The title of the switch for dark mode"
+  },
+  "darkModeSubtitle": "Switch to dark mode",
+  "@darkModeSubtitle": {
+    "description": "The subtitle of switching to dark mode"
+  },
+
+
+  "language" : "Language",
+  "@language": {
+    "description": "The titlle for selecting language"
+  },
+  "languageSubtitle" : "Select language",
+  "@languageSubtitle": {
+    "description": "The subtitle of selecting language"
+  },
+
+
+  "others" : "Others",
+  "@others": {
+    "description": "Other settings subsection in settings page"
+  },
+  "barChart" : "Bar Chart",
+  "@barChart": {
+    "description": "Bar Chart text"
+  },
+  "pieChart" : "Pie Chart",
+  "@pieChart": {
+    "description": "Pie Chart text"
+  },
+
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel saving an expense"
+  },
+  "saveExpense" : "Save Expense",
+  "@saveExpense": {
+    "description": "Title for saving an expense in add expense"
+  },
+  "noDateSelected" : "No Date Selected",
+  "@noDateSelected": {
+    "description": "Error message for not selecting a date"
+  },
+  "title" :"Title",
+  "@title" : {
+    "description": "Placeholder for new expense title input"
+  },
+  "amount" :"Amount",
+  "@amount" : {
+    "description": "Placeholder for new expense amount input"
+  },
+  "optionValidation" : "Please select an option",
+  "@optionValidation": {
+    "description": "Error message for not selecting an option"
+  },
+  "formValidation" : "Please enter a valid title, amount, date and category was enetered.",
+  "@formValidation": {
+    "description": "Error message for not invalid form input"
+  },
+  "invalidInput":"Invalid Input",
+  "@invalidInput": {
+    "description": "Error Title for not selecting an option"
+  },
+  "ok":"OK",
+  "@ok": {
+    "description": "Everything correct message"
+  },
+
+  
+
+  "delete":"Delete",
+  "@delete": {
+    "description": "Button for delete an expense"
+  },
+  "deleteExpense":"Delete Expense",
+  "@deleteExpense": {
+    "description": "Title for delete an expense"
+  },
+  "deleteExpenseConfirm":"Are you sure you want to delete this expense?",
+  "@deleteExpenseConfirm": {
+    "description": "Subtitle for delete an expense"
+  }
+}
